@@ -7,8 +7,7 @@ Main Software
 
 [Magma](https://facebookincubator.github.io/magma/docs/basics/introduction)
 
-[SAS](https://github.com/Wireless-Innovation-Forum/Spectrum-Access-System)
-
+[Wireless Innovation Forum SAS and Testing](https://github.com/Wireless-Innovation-Forum)
 
 
 Other potential software
