@@ -17,6 +17,6 @@ Other potential software
 
 [Indoor LTE3a](https://github.com/parksjg/IndoorLTE3a)
 
-[Cellular Hacking Tools](https://github.com/W00t3k/Awesome-Cellular-Hacking0
+[Cellular Hacking Tools](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
 
