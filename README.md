@@ -15,6 +15,6 @@ Other potential software
 
 [LTE Coverage Tool](https://github.com/usnistgov/LTECoverageTool)
 
-[Indoor LTE3a] (https://github.com/parksjg/IndoorLTE3a)
+[Indoor LTE3a](https://github.com/parksjg/IndoorLTE3a)
 
 
